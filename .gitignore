@@ -1,0 +1,11 @@
+
+
+*.pat
+*.o
+*.lib
+*.exe
+**/bin
+
+.DS_Store
+
+
